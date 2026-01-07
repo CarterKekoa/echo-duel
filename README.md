@@ -4,6 +4,10 @@
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
+<img width="1139" height="851" alt="Screenshot 2026-01-06 at 9 43 53 PM" src="https://github.com/user-attachments/assets/0cbc0247-22d6-4c5f-9bfd-b2520be2956e" />
+<img width="1169" height="884" alt="Screenshot 2026-01-06 at 9 44 10 PM" src="https://github.com/user-attachments/assets/7c450e54-ca2b-43c1-b3aa-85653f993ae9" />
+
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
